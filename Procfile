@@ -1,0 +1,1 @@
+web: gunicorn aysha8210assign1heroku.wsgi --log-file -
